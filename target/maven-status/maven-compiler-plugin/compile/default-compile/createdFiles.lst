@@ -1,0 +1,16 @@
+pageobject\FeesAndPayment.class
+utilities\ConfigClass.class
+pageobject\SignUpPage.class
+pageobject\TVPage.class
+reusability\DriverClass.class
+utilities\BaseClass.class
+pageobject\SofaPage.class
+reusability\HelperClass.class
+pageobject\HomePage.class
+runner\MainClass.class
+utilities\ExcelClass.class
+pageobject\AboutUs.class
+pageobject\GiftCards.class
+pageobject\LoginPage.class
+pageobject\StudyClass.class
+pageobject\SearchPage.class
